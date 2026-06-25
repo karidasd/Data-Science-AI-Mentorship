@@ -1,59 +1,43 @@
-# 🗓️ The 8-Week 1-on-1 Mentorship Syllabus
+# 📇 Dimitris Karydas | Professional Services & Mentorship
 
-This is the standard 8-week structured program I use with my mentees. It is designed to take you from "Junior who knows tutorials" to "Job-Ready Engineer with a killer portfolio."
+Welcome! I am an **AI & Data Science Instructor and PhD Candidate**, dedicated to bridging the gap between academic theory and industry-grade engineering.
 
-*Note: This syllabus is highly customizable based on whether your goal is Data Science, Data Engineering, or AI/MLOps.*
-
----
-
-## 🎯 Weeks 1-2: Audit & Foundation
-*Goal: Stop doing the wrong things and build the right foundation.*
-
-**Week 1: The Brutal Audit**
-- Complete review of your current Resume, LinkedIn, and GitHub.
-- Identifying your "Skill Gaps" based on the exact roles you want.
-- Action Plan: We rewrite your Resume using the XYZ formula to pass ATS.
-
-**Week 2: Advanced SQL & Git Mastery**
-- We don't do `SELECT *`. We cover Window Functions, CTEs, and query optimization.
-- Setting up a professional Git workflow (Branching, PRs, basic CI/CD).
+Whether you are a junior professional trying to break into the tech industry, or an established developer looking to pivot into Artificial Intelligence, I provide **tailored, 1-on-1 mentorship** to help you reach your goals faster.
 
 ---
 
-## 🏗️ Weeks 3-5: The "Hire-Me" Capstone Project
-*Goal: Build one massive, End-to-End project that proves you are a Senior-level thinker.*
+## 🎯 Mentorship Offerings
 
-**Week 3: Architecture & Data Engineering**
-- Designing a cloud architecture (AWS/GCP).
-- Writing a pipeline to extract raw data (API/Scraping) and storing it in a Data Lake.
-- Transforming the data using Pandas or PySpark.
+I don't believe in "one-size-fits-all" bootcamps. Every session is customized to your current skill level and career objectives.
 
-**Week 4: Machine Learning / AI Integration**
-- Training a model (Scikit-learn/XGBoost) OR integrating an LLM (OpenAI API / RAG).
-- Tracking experiments with MLflow.
+### 1. Career Accelerator Coaching
+- **Resume & LinkedIn Optimization:** We rewrite your profile using ATS-friendly formulas to attract recruiters.
+- **Mock Interviews:** Simulated technical (SQL/Python) and behavioral (STAR method) interviews.
+- **Job Strategy:** Transitioning into Data Science from another field? We will build a step-by-step roadmap.
 
-**Week 5: MLOps & Deployment**
-- Containerizing the application using **Docker**.
-- Exposing the model via a **FastAPI** endpoint.
-- Building a simple UI with **Streamlit** to show recruiters.
+### 2. Technical Skill Building
+- **Core Data Engineering:** Mastering advanced SQL, Apache Airflow, dbt, and Cloud Data Warehouses.
+- **Generative AI & MLOps:** Building RAG (Retrieval-Augmented Generation) applications, working with the OpenAI API, and deploying models with Docker and FastAPI.
+
+### 3. Project Architecture Guidance
+- Stop building generic "Titanic" datasets. I will help you design and build a **Senior-level Capstone Project**.
+- We will architect a true End-to-End data pipeline or an AI Agent, giving you a portfolio piece that immediately stands out to Hiring Managers.
+
+---
+
+## ⚙️ Core Technology Stack
+If you need help mastering any of the following, you are in the right place:
+- **Languages:** Python, SQL, Bash.
+- **Data Engineering:** Spark, Kafka, Airflow, dbt, PostgreSQL, BigQuery.
+- **AI / ML:** Scikit-Learn, MLflow, LangChain, Vector Databases (Chroma/Pinecone).
+- **DevOps / Cloud:** Docker, GitHub Actions (CI/CD), AWS, GCP, FastAPI.
 
 ---
 
-## 🚀 Weeks 6-8: Job Hunting & Interview Prep
-*Goal: Get interviews and pass them.*
+## 🚀 Let's Work Together
 
-**Week 6: The Cold Outreach System**
-- How to stop applying on portals and start messaging Hiring Managers.
-- Optimizing your LinkedIn to get inbound recruiter messages.
+If you are ready to stop guessing and start building a high-paying career in Data & AI, let's connect.
 
-**Week 7: Technical Mock Interview**
-- A 45-minute simulated coding interview (Python/SQL) under pressure.
-- Real-time feedback on your code efficiency and problem-solving communication.
+👉 **[Book a 30-Minute Consultation on Calendly](https://calendly.com/karidasdimitris23/30min)**
 
-**Week 8: Behavioral Mock Interview & Negotiation**
-- Mastering the STAR Method for the "Culture Fit" round.
-- How to negotiate your salary offer to get 10-20% more money.
-
----
-### Ready to start?
-👉 **[Book your initial consultation here](https://calendly.com/karidasdimitris23/30min)**
+*You can also find me and follow my daily tech insights on **[LinkedIn](https://www.linkedin.com/)**.*

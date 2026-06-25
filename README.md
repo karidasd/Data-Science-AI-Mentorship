@@ -49,9 +49,9 @@ I have open-sourced the exact Roadmaps and Strategies you need to succeed.
 Reading roadmaps is great, but nothing beats personalized guidance. 
 If you want to accelerate your career, I offer 1-on-1 mentorship sessions where we focus purely on **your** goals.
 
-### 🗓️ The 8-Week Program
-Curious about what a structured mentorship looks like? 
-👉 **[Read the Full 8-Week Mentorship Syllabus Here](./Mentorship_Syllabus.md)**
+### 🗓️ My Mentorship Offerings
+Curious about the exact services I provide and my technology stack? 
+👉 **[Read my Professional Services & Mentorship Overview Here](./Mentorship_Syllabus.md)**
 
 ### What we can do together:
 1. **Resume & Portfolio Roast:** I will brutally review your GitHub and Resume to make them stand out to Senior Hiring Managers.
