@@ -31,9 +31,16 @@ I have open-sourced the exact Roadmaps and Strategies you need to succeed.
 ### 🗺️ Career Roadmaps (Updated for 2025)
 * [**01: The Modern Data Scientist Roadmap**](./Roadmaps/01_Data_Scientist_Roadmap.md)
 * [**02: The AI / MLOps Engineer Roadmap**](./Roadmaps/02_AI_Engineer_Roadmap.md)
+* [**03: The Modern Data Engineer Roadmap**](./Roadmaps/03_Data_Engineer_Roadmap.md)
+* [**04: The Machine Learning Engineer Roadmap**](./Roadmaps/04_Machine_Learning_Engineer_Roadmap.md)
+
+### 🎤 Interview Preparation
+* [**SQL & Python Cheatsheet (Top Patterns)**](./Interview_Preparation/SQL_and_Python_Cheatsheet.md)
+* [**The STAR Method (Acing Behavioral Rounds)**](./Interview_Preparation/Behavioral_STAR_Method.md)
 
 ### 💼 Portfolio & Resume
 * [**How to write an ATS-Friendly Resume**](./Career_and_Portfolio/Resume_Tips.md)
+* [**Cold Message Templates for LinkedIn**](./Career_and_Portfolio/Cold_Message_Templates.md)
 
 ---
 
@@ -41,6 +48,10 @@ I have open-sourced the exact Roadmaps and Strategies you need to succeed.
 
 Reading roadmaps is great, but nothing beats personalized guidance. 
 If you want to accelerate your career, I offer 1-on-1 mentorship sessions where we focus purely on **your** goals.
+
+### 🗓️ The 8-Week Program
+Curious about what a structured mentorship looks like? 
+👉 **[Read the Full 8-Week Mentorship Syllabus Here](./Mentorship_Syllabus.md)**
 
 ### What we can do together:
 1. **Resume & Portfolio Roast:** I will brutally review your GitHub and Resume to make them stand out to Senior Hiring Managers.
