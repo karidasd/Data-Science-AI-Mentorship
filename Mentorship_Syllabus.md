@@ -1,8 +1,9 @@
 # 📇 Dimitris Karydas | Professional Services & Mentorship
 
-Welcome! I am an **AI & Data Science Instructor and PhD Candidate**, dedicated to bridging the gap between academic theory and industry-grade engineering.
+Welcome! I am an **AI Instructor & Data Analyst Instructor** and a PhD Candidate. 
+With extensive experience teaching hundreds of students how to break into the tech industry, my passion is turning complex academic theory into practical, job-ready engineering skills.
 
-Whether you are a junior professional trying to break into the tech industry, or an established developer looking to pivot into Artificial Intelligence, I provide **tailored, 1-on-1 mentorship** to help you reach your goals faster.
+Whether you are a complete beginner aiming to become a Data Analyst, or an established developer looking to master Artificial Intelligence, I provide **tailored, 1-on-1 mentorship** to help you reach your goals faster.
 
 ---
 

@@ -14,13 +14,13 @@
 
 Hi, I'm **Dimitris Karydas**! 👋
 
-I am an **AI & Data Science Instructor** and a **PhD Candidate**. I have spent years writing code, building MLOps pipelines, and studying the depths of Artificial Intelligence. 
+I am a professional **AI Instructor & Data Analyst Instructor** and a PhD Candidate. I have spent years writing code, building MLOps pipelines, and studying the depths of Artificial Intelligence. 
 
 But my true passion? **Teaching and guiding others.**
 
-I've seen hundreds of junior developers get stuck in "Tutorial Hell." They know how to write a Python `for-loop`, but they don't know how to pass a technical interview, how to structure a GitHub portfolio, or what tools (like Docker or dbt) the industry actually uses in 2025.
+As an active Instructor, I've seen hundreds of junior developers get stuck in "Tutorial Hell." They know how to write a Python `for-loop`, but they don't know how to pass a technical interview, how to structure a GitHub portfolio, or what tools the industry actually uses.
 
-That's why I created this hub. 
+That's why I created this hub. I know exactly what it takes to transform a student into a hired professional.
 
 ---
 
