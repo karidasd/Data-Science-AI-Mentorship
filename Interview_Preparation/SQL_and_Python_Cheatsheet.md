@@ -1,6 +1,6 @@
-# 🛠️ SQL & Python Cheatsheet (Top Interview Questions)
+# 🛠️ SQL, Python & ML Cheatsheet (Top Interview Questions)
 
-When you reach the technical round, you will likely face HackerRank or LeetCode style questions. Here are the most common patterns you MUST know.
+When you reach the technical round, you will likely face HackerRank or LeetCode style questions, along with deep Machine Learning theory. Here are the most common patterns you MUST know.
 
 ## 🗄️ SQL Patterns
 
@@ -31,19 +31,42 @@ SELECT
 FROM daily_sales;
 ```
 
+### 3. The Cumulative Sum (Running Total)
+*Question: Find the running total of revenue per month.*
+```sql
+SELECT 
+    month,
+    revenue,
+    SUM(revenue) OVER(ORDER BY month ASC) as cumulative_revenue
+FROM monthly_financials;
+```
+
+### 4. Self-Join for Hierarchical Data
+*Question: Find the names of employees who earn more than their direct managers.*
+```sql
+SELECT e.name 
+FROM employees e
+JOIN employees m ON e.manager_id = m.id
+WHERE e.salary > m.salary;
+```
+
 ---
 
 ## 🐍 Python Patterns
 
-### 1. Dictionary Comprehensions
-*Question: Given a list of words, create a dictionary where the key is the word and the value is its length.*
+### 1. Dictionary Comprehensions (Frequency Counting)
+*Question: Given a string, count the frequency of each character.*
 ```python
-words = ["data", "science", "ai", "mentorship"]
-word_lengths = {word: len(word) for word in words}
+text = "data engineering"
+# The elegant way
+freq = {char: text.count(char) for char in set(text)}
+# The high-performance way (O(N))
+from collections import Counter
+freq = dict(Counter(text))
 ```
 
 ### 2. The Two Pointer Technique (Lists)
-*Question: Given a sorted array, find two numbers that add up to a specific target.*
+*Question: Given a sorted array, find two numbers that add up to a specific target in O(N) time.*
 ```python
 def two_sum_sorted(arr, target):
     left, right = 0, len(arr) - 1
@@ -57,4 +80,27 @@ def two_sum_sorted(arr, target):
             right -= 1
     return None
 ```
-*Why they ask it:* It proves you can optimize O(N^2) naive nested loops down to O(N) time complexity.
+
+### 3. The Sliding Window Technique
+*Question: Find the maximum sum of any contiguous subarray of size `k`.*
+```python
+def max_sum_subarray(arr, k):
+    max_sum = current_sum = sum(arr[:k])
+    for i in range(len(arr) - k):
+        current_sum = current_sum - arr[i] + arr[i+k]
+        max_sum = max(max_sum, current_sum)
+    return max_sum
+```
+
+---
+
+## 🤖 Machine Learning Theory (Top 3 Questions)
+
+### 1. "Explain the Bias-Variance Tradeoff."
+**Answer:** Bias is the error from simplistic assumptions (Underfitting). Variance is the error from sensitivity to small fluctuations in the training set (Overfitting). The tradeoff is the tension between minimizing bias (getting closer to the training data) and minimizing variance (generalizing well to unseen data).
+
+### 2. "How does a Random Forest actually work?"
+**Answer:** It's an ensemble of Decision Trees. It uses **Bagging** (Bootstrap Aggregating) where each tree is trained on a random subset of the data, and at each split, it only considers a random subset of features. The final prediction is the majority vote (classification) or average (regression) of all trees. This reduces the high variance of individual decision trees.
+
+### 3. "How do you handle highly imbalanced datasets?"
+**Answer:** First, don't use Accuracy as a metric; use F1-Score, Precision-Recall AUC. Second, use algorithmic techniques like class weighting (giving higher penalty to mistakes on the minority class). Third, use data techniques like SMOTE (Synthetic Minority Over-sampling Technique) or random undersampling of the majority class.

@@ -39,3 +39,49 @@ I would love to chat for 5 minutes if my profile aligns with what the team needs
 
 Best,
 [Your Name]
+
+---
+
+## Template 3: The "Informational Interview"
+*Use this when you just want to build a network and ask for a 15-minute virtual coffee.*
+
+Hi [Name],
+
+I'm a huge fan of the data engineering architecture you've built at [Company]. I'm currently transitioning into Data Engineering and I'm highly focused on mastering dbt and Airflow.
+
+I am not messaging to ask for a job. I'd just love to pick your brain for 15 minutes over a virtual coffee about how you scaled your pipelines. 
+
+Would you be open to a quick chat next week?
+
+Best,
+[Your Name]
+
+---
+
+## Template 4: The "Alumni Connection"
+*Use this when someone went to your University or Bootcamp.*
+
+Hi [Name],
+
+I saw you also graduated from [University/Bootcamp Name] - go [Mascot]! 
+
+I'm currently looking to transition into a [Job Role] role, and seeing your trajectory at [Company] is incredibly inspiring. I'd love to ask you a couple of quick questions about your transition from academia to industry.
+
+Do you have 10 minutes for a quick chat later this week?
+
+Best,
+[Your Name]
+
+---
+
+## Template 5: The "Polite Follow-up"
+*Use this when they ghost you after 4-5 days.*
+
+Hi [Name],
+
+Bringing this to the top of your inbox. I know things get incredibly busy on the data team! 
+
+If you don't have time right now, no problem at all. I will keep following your work. 
+
+Thanks,
+[Your Name]
